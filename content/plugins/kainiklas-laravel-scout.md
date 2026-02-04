@@ -9,6 +9,6 @@ docs_url: https://raw.githubusercontent.com/kainiklas/filament-scout/main/README
 github_repository: kainiklas/filament-scout
 has_dark_theme: true
 has_translations: true
-versions: [3, 4]
+versions: [3, 4, 5]
 publish_date: 2023-12-15
 ---
